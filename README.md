@@ -211,3 +211,6 @@ ExamXML is provided as a full free version, offering users access to all feature
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-15 08:30:34 UTC
